@@ -166,11 +166,11 @@ HRM/
 │       ├── US-01_DanhSachNhanSu.md
 │       ├── US-02_XemChiTietNhanSu.md
 │       ├── US-03_TaoHoSoNhanSu.md
-│       ├── US-04_CapNhatNhanSu.md
-│       ├── US-05_KichHoatNhanSu.md
-│       ├── US-06_TaoTaiKhoanAD.md
-│       ├── US-07_QuanLyTrangThaiNhanSu.md
-│       └── US-08_AuditLog.md
+│       ├── US-04_SinhMaNhanSu.md
+│       ├── US-05_CapNhatNhanSu.md
+│       ├── US-06_KichHoatNhanSu.md
+│       ├── US-07_TaoTaiKhoanAD.md
+│       └── US-08_QuanLyTrangThaiNhanSu.md
 │
 ├── BPMN
 │   ├── Employee_Lifecycle.md
