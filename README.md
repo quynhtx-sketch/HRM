@@ -134,11 +134,11 @@ Nghỉ việc
 | US-01 | Danh sách nhân sự |
 | US-02 | Xem chi tiết nhân sự |
 | US-03 | Tạo hồ sơ nhân sự |
-| US-04 | Cập nhật nhân sự |
-| US-05 | Kích hoạt nhân sự |
-| US-06 | Tạo tài khoản AD |
-| US-07 | Quản lý trạng thái nhân sự |
-| US-08 | Audit Log |
+| US-04 | Sinh mã nhân sự |
+| US-05 | Cập nhật nhân sự |
+| US-06 | Kích hoạt nhân sự |
+| US-07 | Tạo tài khoản AD |
+| US-08 | Quản lý trạng thái nhân sự |
 
 ---
 
