@@ -157,16 +157,40 @@ flowchart TD
 
 ## 15.2 Mô tả màn hình
 
-### Thông tin chung
+### [Tên màn hình]
 
-| Thuộc tính | Giá trị |
-|------------|----------|
-| Tên màn hình | |
-| Mục đích | |
-| Đối tượng sử dụng | |
+#### A. Khu vực tìm kiếm
 
----
+| Tên control | Loại control | Kiểu dữ liệu | Giá trị mặc định | Bắt buộc | Mô tả |
+|------------|-------------|-------------|------------------|-----------|--------|
+| ... | ... | ... | ... | ... | ... |
 
+#### B. Khu vực danh sách
+
+| Tên cột | Kiểu dữ liệu | Cho phép sắp xếp | Mô tả |
+|----------|-------------|------------------|--------|
+| ... | ... | Có/Không | ... |
+
+#### C. Khu vực thao tác
+
+| Nút chức năng | Điều kiện hiển thị | Chức năng |
+|---------------|-------------------|-----------|
+| Thêm mới | Có quyền tạo | Mở màn hình tạo mới |
+| Sửa | Có quyền cập nhật | Mở màn hình chỉnh sửa |
+| Xóa | Có quyền xóa | Xóa dữ liệu |
+
+#### D. Validation
+
+| Trường | Điều kiện | Thông báo lỗi |
+|---------|-----------|--------------|
+| ... | ... | ... |
+
+#### E. Business Rule
+
+| Mã Rule | Mô tả |
+|----------|--------|
+| BR-01 | ... |
+| BR-02 | ... |
 # 16. Business Rules
 
 | Mã | Quy tắc |
